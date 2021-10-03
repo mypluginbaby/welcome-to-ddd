@@ -1,21 +1,21 @@
-# Welcome to Domain-Driven Design (DDD)
+# Добро пожаловать в Доменный дизайн (DDD)
 
-This project contains definitions of DDD and fundamental concepts to reduce the learning curve and confusion.
+Этот проект содержит определения DDD и фундаментальные концепции, позволяющие сократить время обучения и путаницу.
 
-![DDD on a page](resources/ddd_on_a_page.jpg)
+![DDD на странице](resources/ddd_on_a_page.jpg )
 
-## Getting started with DDD
+## Начало работы с DDD
 
-DDD is not an all-or-nothing deal. You can apply the ideas from DDD as much or as little as you feel is beneficial to the project you're working on.
+DDD - это не сделка "все или ничего". Вы можете применять идеи DDD в той мере или в той мере, в какой считаете, что это полезно для проекта, над которым вы работаете.
 
-For some projects you might just apply DDD to your discovery work, for other projects you might skip strategic DDD and just start by modelling in code with some lightweight visualization. Don't feel pressured into over-applying DDD.
+Для некоторых проектов вы можете просто применить DDD к своей работе по обнаружению, для других проектов вы можете пропустить стратегический DDD и просто начать с моделирования в коде с некоторой облегченной визуализацией. Не чувствуйте себя вынужденным чрезмерно применять DDD.
 
-Here are some of the ways in which you can get started with learning DDD or applying it immediately to your current project.
+Вот некоторые из способов, с помощью которых вы можете начать изучение DDD или немедленно применить его к вашему текущему проекту.
 
-- Check out [The DDD Starter Modelling Process](https://github.com/ddd-crew/ddd-starter-modelling-process) if you want to see how DDD can be applied cohesively to different aspects of software development from discovery to strategic to tactical.
+- Ознакомьтесь с [Процессом моделирования DDD-стартера](https://github.com/ddd-crew/ddd-starter-modelling-process ) если вы хотите увидеть, как DDD может быть согласованно применен к различным аспектам разработки программного обеспечения от обнаружения до стратегического и тактического.
 
-- Get started with hands-on techniques using [Visual Collaboration Tools](https://leanpub.com/visualcollaborationtools), a free ebook containing workshop recipes for a number of collaborative DDD techniques including EventStorming, Domain Storytelling, Domain Quiz, and Context Mapping.
+- Начните с практических методов с использованием [визуальных инструментов совместной работы] (https://leanpub.com/visualcollaborationtools ), бесплатная электронная книга, содержащая рецепты семинаров для ряда совместных методов DDD, включая штурм событий, рассказывание историй о домене, Викторину по домену и сопоставление контекста.
 
-- Read Eric Evans' [DDD Reference Guide](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) which provides definitions for the traditional DDD patterns.
+- Прочитайте [Справочное руководство DDD Эрика Эванса](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf ), который предоставляет определения для традиционных шаблонов DDD.
 
-- Take a look at Mathias Verraes' article [What is Domain-Driven Design?](https://verraes.net/2021/09/what-is-domain-driven-design-ddd/)
+- Взгляните на статью Матиаса Верреса [Что такое доменный дизайн?](https://verraes.net/2021/09/what-is-domain-driven-design-ddd /)
